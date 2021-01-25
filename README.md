@@ -1,4 +1,4 @@
-# 0601639 Software Dewvelopment Tools and Environments
+# 0601639 Software Development Tools and Environments
 
 # LAB 2
 
